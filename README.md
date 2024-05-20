@@ -2,7 +2,7 @@
 #### Web Developer
 Motivated and detail-oriented Computer Science student passionate about leveraging technical skills in software development and problem-solving. Seeking an opportunity to apply classroom learning in a practical setting, contributing to innovative projects and gaining hands-on experience in areas such as programming, web development, and software development. Eager to collaborate with a dynamic team to tackle real-world challenges and drive impactful solutions.
 
-Skills:  HTML / CSS / PHP / C# / Python (Django) 
+Skills:  HTML / CSS / PHP / C# / Python (Django) / UI/UX Prototype Design (Axure-RP 10)
 
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on Github 
