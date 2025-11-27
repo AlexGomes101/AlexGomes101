@@ -1,6 +1,8 @@
-#  **ALEX GOMES – Web Developer**
-
 <div align="center">
+
+# ALEX GOMES – Web Developer
+
+</div>
 
 ### 👋 Hi there, I'm **Alex Gomes**
 
