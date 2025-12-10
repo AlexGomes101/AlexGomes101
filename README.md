@@ -75,8 +75,7 @@ Motivated and detail-oriented Computer Science student passionate about building
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexGomes101&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=AlexGomes101&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlexGomes101&theme=default&date_format=j/n/Y)
 
 
 
