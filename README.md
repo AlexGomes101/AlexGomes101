@@ -73,9 +73,11 @@ Motivated and detail-oriented Computer Science student passionate about building
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 GitHub Stats
 
-![GitHub streak](https://streak-stats.demolab.com/?user=AlexGomes101&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexGomes101&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlexGomes101&theme=default)
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AlexGomes101\&style=flat)
