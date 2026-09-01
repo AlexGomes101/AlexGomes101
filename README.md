@@ -145,33 +145,25 @@ Enterprise ERP operational experience involving user permission management, role
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<div align="center">
+You can find my latest contributions, repositories, and development activity on my GitHub profile.
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=AlexGomes101&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-## 🔥 GitHub Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGomes101&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/AlexGomes101">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity">
+  </a>
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexGomes101&label=Profile%20Views&style=flat" alt="Profile Views">
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=AlexGomes101&label=Profile%20Views&style=flat" alt="Profile Views" />
-
-</div>
+---
 
 ## 😊 Fun Fact
 
