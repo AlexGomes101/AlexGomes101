@@ -1,171 +1,192 @@
+<div align="center">
 
-    <div align="center">
+# ALEX GOMES
 
-    # ALEX GOMES
+### Web Developer • Software Developer • ERP Operations • Django & ASP.NET Learner
 
-    ### Web Developer | Software Developer | ERP Operations | Django & ASP.NET
 
-    </div>
+</div>
 
-    ## 👋 Hi, I'm Alex Gomes
+---
 
-    I'm a passionate **Web Developer** and **Software Developer** with hands-on experience in software development, ERP operations, user permission management, staging environment testing, and enterprise system support.
+## 👋 Hi, I'm Alex Gomes
 
-    I enjoy building clean, functional, and user-focused applications using **Django**, **ASP.NET MVC**, **PHP**, and **SQL Server**, while continuously improving my UI/UX and backend development skills.
+I'm a passionate **Web Developer** and **Software Developer** with hands-on experience in software development, ERP operations, enterprise system support, and UI/UX design.
 
-    ---
+I enjoy building clean, functional, and user-focused applications using **Django, ASP.NET MVC, C#, PHP, and SQL Server**, while continuously improving my development and problem-solving skills.
 
-    ## 💼 Professional Experience
+I also have practical experience in **ERP Operations**, including user permission management, system configuration, staging environment testing, UAT validation, workflow verification, and production support.
 
-    - ERP Operation & Enterprise System Support
-    - User Permission Management
-    - Role & Menu Permission Configuration
-    - ERP System Configuration
-    - Staging Environment Testing
-    - UAT & Feature Validation
-    - Production Support & Issue Verification
-    - Data Correction & Operational Support
-    - Loan, Savings, Membership & Collection Module Support
+---
 
-    ---
+## 💼 Professional Experience
 
-    ## 🚀 Skills & Technologies
+- ⚙️ ERP Operation & Enterprise System Support
+- 🔐 User Permission Management
+- 👤 User Creation, Modification & Deactivation
+- 🛡️ Role & Menu Permission Configuration
+- ⚙️ ERP System Configuration
+- 🧪 Staging Environment Testing
+- ✅ UAT & Feature Validation
+- 🐞 Bug Verification & Reporting
+- 🚀 Production Support & Issue Resolution
+- 🗄️ Data Correction & Operational Support
+- 💰 Loan Module Support
+- 💳 Savings Module Support
+- 👥 Membership Module Support
+- 💵 Collection & Payment Module Support
 
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-    ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat&logo=.net&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-    ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-    ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-    ![Axure](https://img.shields.io/badge/Axure_RP-1679A7?style=flat&logo=axure&logoColor=white)
+---
 
-    ---
+## 🚀 Skills & Technologies
 
-    ## 🔧 Tools I Use
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 
-    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-    ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-    ![Axure](https://img.shields.io/badge/Axure_RP-1679A7?style=flat&logo=axure&logoColor=white)
+---
 
-    ---
+## 🛠️ Tools & Platforms
 
-    ## 📌 Currently Working On
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Axure RP](https://img.shields.io/badge/Axure_RP-1679A7?style=flat&logo=axure&logoColor=white)
 
-    - 🔹 Building web applications using **Django**
-    - 🔹 Learning and developing enterprise applications with **ASP.NET MVC**
-    - 🔹 Working in **ERP Operations** for enterprise business systems
-    - 🔹 Managing **User Permissions, Roles & Menu Access**
-    - 🔹 Performing **Staging Testing & UAT Validation**
-    - 🔹 Supporting ERP modules including **Loan, Savings, Membership & Collection**
-    - 🔹 Improving **UI/UX Design** with Figma & Axure RP
-    - 🔹 Exploring scalable backend workflows using **SQL Server**
+---
 
-    ---
+## 📌 Currently Working On
 
-    ## 📂 Featured Projects
+- 🔹 Developing web applications using **Django**
+- 🔹 Learning and developing enterprise applications with **ASP.NET MVC**
+- 🔹 Working with **ERP Operations & Enterprise Systems**
+- 🔹 Managing **ERP Users, Roles & Permissions**
+- 🔹 Performing **Staging Environment Testing & UAT**
+- 🔹 Supporting ERP workflows and business modules
+- 🔹 Working with **SQL Server** for enterprise data operations
+- 🔹 Improving **UI/UX Design & Prototyping** using Figma and Axure RP
+- 🔹 Exploring better solutions for enterprise workflow automation
 
-    ### 🎬 BlackBox Movies
+---
 
-    A cinematic movie streaming web application built with **Python Django** featuring genre browsing, movie details, modern UI design, and responsive layouts.
+## 📂 Featured Projects
 
-    **Tech Stack:** Django • HTML • CSS • JavaScript
+### 🎬 BlackBox Movies
 
-    ---
+A cinematic movie streaming web application built with **Python Django**, featuring genre browsing, movie details, modern UI design, and responsive layouts.
 
-    ### 🎨 Personal Portfolio Website
+**Tech Stack:** Django • Python • HTML • CSS • JavaScript
 
-    Responsive portfolio website showcasing projects, skills, and professional information with a clean UI.
+---
 
-    **Tech Stack:** HTML • CSS • JavaScript
+### 🐾 Animal Weight Tracker System
 
-    ---
+C# MVC-based application for tracking animals' weight, daily caloric intake, exercise duration, and health statistics for disease prevention and health monitoring.
 
-    ### 🏠 House Rent Management System
+**Tech Stack:** C# • ASP.NET MVC • .NET • SQL
 
-    Django-based CRUD application for managing rental properties, tenants, and house information.
+---
 
-    **Tech Stack:** Django • Python • SQLite/MySQL
+### 🤿 Scuba Diving UI/UX Prototype
 
-    ---
+Interactive UI/UX prototype for amateur scuba divers and snorkelers, featuring dive activity tracking, underwater mode, air monitoring, dive duration, and underwater photo/video experiences.
 
-    ### 🐾 Animal Weight Tracker System
+**Tools:** Axure RP 10 • UI/UX Design • Prototyping
 
-    C# MVC-based application for tracking animals' weight, daily caloric intake, exercise duration, and health statistics for disease prevention and health monitoring.
+---
 
-    **Tech Stack:** C# • ASP.NET MVC • .NET • SQL
+### 🏠 House Rent Management System
 
-    ---
+Django-based CRUD application for managing rental properties, tenants, and house information.
 
-    ### 🤿 Scuba Diving UI/UX Prototype
+**Tech Stack:** Django • Python • HTML • CSS • SQLite/MySQL
 
-    Interactive UI/UX prototype for amateur scuba divers and snorkelers, featuring dive activity tracking, underwater mode, air monitoring, dive duration, and underwater photo/video experiences.
+---
 
-    **Tools:** Axure RP 10 • UI/UX Design • Prototyping
+### 🎨 Personal Portfolio Website
 
-    ---
+Responsive portfolio website showcasing projects, skills, and professional information with a clean and user-focused interface.
 
-    ### ⚙️ ERP Support & Workflow Experience
+**Tech Stack:** HTML • CSS • JavaScript
 
-    Enterprise ERP operational work involving permission management, staging validation, user support, workflow verification, and production issue assistance.
+---
 
-    **Area:** ERP Operations • SQL Server • System Support
+### ⚙️ ERP Support & Workflow
 
-    ---
+Enterprise ERP operational experience involving user permission management, role and menu configuration, system configuration, staging validation, UAT testing, workflow verification, production support, and operational issue resolution.
 
-    ## 🌐 Connect With Me
+**Area:** ERP Operations • SQL Server • System Support
 
-    [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/AlexGomes101)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexG./)
-    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/AlexAugustineGomes/)
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nongragram/)
-    [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/alexaugustinegomes)
+---
 
-    ---
+## 🌐 Connect With Me
 
-    ## 📊 GitHub Statistics
+<div align="center">
 
-    <div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlexGomes101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlexG./)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/AlexAugustineGomes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nongragram/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/alexaugustinegomes)
 
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexGomes101&show_icons=true&hide_border=true&rank_icon=github)
+</div>
 
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGomes101&layout=compact&hide_border=true)
+---
 
-    </div>
+## 📊 GitHub Statistics
 
-    ---
+<div align="center">
 
-    ## 🔥 GitHub Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api?username=AlexGomes101&show_icons=true&hide_border=true&rank_icon=github" alt="Alex Gomes GitHub Stats" />
 
-    <div align="center">
+<br/>
 
-    <img src="https://streak-stats.demolab.com?user=AlexGomes101&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGomes101&layout=compact&hide_border=true" alt="Top Languages" />
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## 👀 Profile Views
+## 🔥 GitHub Contribution Streak
 
-    <div align="center">
+<div align="center">
 
-    <img src="https://komarev.com/ghpvc/?username=AlexGomes101&label=Profile%20Views&style=flat&color=0e75b6" />
+<img src="https://streak-stats.demolab.com?user=AlexGomes101&hide_border=true" alt="GitHub Contribution Streak" />
 
-    </div>
+</div>
 
-    ---
+---
 
-    ## 😊 Fun Fact
+## 👀 Profile Views
 
-    I enjoy designing clean user interfaces, solving real-world problems, and transforming ideas into functional web applications.
-  
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AlexGomes101&label=Profile%20Views&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 😊 Fun Fact
+
+I enjoy designing clean UI layouts, solving real-world problems, and transforming ideas into functional applications.
+
+---
+
+<div align="center">
+
+### 💻 Build • Learn • Improve • Repeat
+
+</div>
