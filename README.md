@@ -146,31 +146,20 @@ Enterprise ERP operational experience involving user permission management, role
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=AlexGomes101&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=AlexGomes101&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
 </div>
 
 ---
-
 ## 🔥 GitHub Contribution Activity
-
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGomes101&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-
 </div>
 
 ---
-
 ## 👀 Profile Views
-
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=AlexGomes101&label=Profile%20Views&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
