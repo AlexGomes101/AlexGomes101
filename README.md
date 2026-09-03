@@ -144,7 +144,6 @@ Enterprise ERP operational experience involving user permission management, role
 </div>
 
 ---
-
 ## 📊 GitHub Statistics
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=AlexGomes101&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
@@ -154,7 +153,7 @@ Enterprise ERP operational experience involving user permission management, role
 ## 🔥 GitHub Contribution Activity
 <div align="center">
 <a href="https://github.com/AlexGomes101">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGomes101&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" width="90%" />
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=AlexGomes101&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" width="90%" />
 </a>
 </div>
 
